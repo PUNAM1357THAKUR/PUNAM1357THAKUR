@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZlaryURnxipPD-CRza7c0KbRHt9zWoBM/view?usp=sharing](https://drive.google.com/file/d/1ZlaryURnxipPD-CRza7c0KbRHt9zWoBM/view?usp=sharing)
 
+- ⚡ Fun fact **Passionate about both the hardware and software sides of systems!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/punam-thakur-37b28027a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punam-thakur-37b28027a" height="30" width="40" /></a>

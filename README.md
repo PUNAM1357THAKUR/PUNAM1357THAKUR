@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thakurpunam2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18EedtdskOpshaDXPKSEASs6o9MRfIj7-/view?usp=sharing](https://drive.google.com/file/d/18EedtdskOpshaDXPKSEASs6o9MRfIj7-/view?usp=sharing)
+- 📄 Resume https://drive.google.com/file/d/11uZFjEsShu-g81z76I-GBvFSuFClRol9/view?usp=sharing
 
 - ⚡ Fun fact **Passionate about both the hardware and software sides of systems!**
 

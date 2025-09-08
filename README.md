@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punam1357thakur&label=Profile%20views&color=0e75b6&style=flat" alt="punam1357thakur" /> </p>
 
-- 🔭 I’m currently working on **ParkEase**
+- 🔭 I’m currently working on **The Rider's co-pilot : An intelligent assistant for smarter riding**
 
 - 🌱 I’m currently learning **Embedded System Programming**
 
 - 👯 I’m looking to collaborate on **Embedded Project**
 
-- 💬 Ask me about **Embedded C, C++, and Python for Hardware**
+- 💬 Ask me about **Embedded C, C++ for Hardware**
 
 - 📫 How to reach me **thakurpunam2005@gmail.com**
 
-- 📄 Resume https://drive.google.com/file/d/11uZFjEsShu-g81z76I-GBvFSuFClRol9/view?usp=sharing
+- 📄 Resume https://drive.google.com/file/d/1TX9Iu1glBKZk38r3nMbO0BE3eCyf82rN/view?usp=sharing
 
 - ⚡ Fun fact **Passionate about both the hardware and software sides of systems!**
 
